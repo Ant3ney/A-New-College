@@ -27,7 +27,8 @@ export default async function Page() {
               <div className="flex flex-col gap-4 items-center">
                 <h1 style={{
 			backgroundColor: 'white',
-			padding: '1rem'
+			padding: '1rem',
+			textAlign: 'center'
 		}} className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter text-black">
                   <Link
                     className="underline decoration-brand hover:text-brand underline-offset-8 hover:underline-offset-4 transition-all ease-out"
@@ -36,7 +37,9 @@ export default async function Page() {
 		    A New College
                   </Link>
                 </h1>
-		                <div className="text-md leading-6 prose uppercase py-1 px-3 bg-white font-mono italic">
+		                <div className="text-md leading-6 prose uppercase py-1 px-3 bg-white font-mono italic" style={{
+			textAlign: 'center'
+				}}>
 			A community solution to our increasingly isolated worlds
                 </div>
 
