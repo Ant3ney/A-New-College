@@ -403,13 +403,13 @@ hey’re not in each other’s pockets all day, but they’re not isolated, eith
 
 
       </div>
-      <div className="border-t border-gray-100 bg-gray-50">
+      {/*<div className="border-t border-gray-100 bg-gray-50">
         <div className="container">
           <aside className="py-12 sm:py-20">
             <Suspense>{await AllPosts()}</Suspense>
           </aside>
         </div>
-      </div>
+      </div>*/}
     </>
   )
 }
