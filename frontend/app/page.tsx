@@ -373,7 +373,7 @@ hey’re not in each other’s pockets all day, but they’re not isolated, eith
             Want this in your city?
           </div>
           <Link
-            href="/https://docs.google.com/forms/d/e/1FAIpQLSdt5JQl-eWkF09waf0QEUpwahs8NiT2spwq74f39pyrDTPiXw/viewform"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdt5JQl-eWkF09waf0QEUpwahs8NiT2spwq74f39pyrDTPiXw/viewform"
             className="inline-block rounded-lg bg-black text-white text-sm font-medium tracking-tight px-4 py-2 hover:bg-gray-800 transition-colors shadow-lg"
           >
 	  	Add your name to interested list
