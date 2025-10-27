@@ -406,6 +406,7 @@ hey’re not in each other’s pockets all day, but they’re not isolated, eith
 
 
       </div>
+      <p> contact me at anthonycavuoti@gmail.com </p>
       {/*<div className="border-t border-gray-100 bg-gray-50">
         <div className="container">
           <aside className="py-12 sm:py-20">
